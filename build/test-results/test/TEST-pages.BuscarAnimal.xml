@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pages.BuscarAnimal" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-07T17:08:56" hostname="DESKTOP-T9OQV03" time="0.983">
+  <properties/>
+  <testcase name="BuscaAnimal" classname="pages.BuscarAnimal" time="0.983"/>
+  <system-out><![CDATA[Felis silvestris catus - Wikipedia, la enciclopedia libre
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
